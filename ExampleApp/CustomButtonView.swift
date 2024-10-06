@@ -43,6 +43,5 @@ final class CustomButtonView: UIButton {
         ])
     }
     
-    
 }
 
